@@ -8,3 +8,7 @@ This is a sample read me file for my GitHub. It was my first time to use this ap
 
 ### Contact 
 [Zeng Shuman](https://www.baidu.com)
+
+1. Function one
+2. Function two
+3. Function three
